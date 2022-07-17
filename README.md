@@ -16,24 +16,14 @@
 
 ### Requisitos funcionais
 
-### Funcionalidades
-CRUD - create, read, update and delete
+- Link: https://trello.com/b/ykRrF93H/barber-shop-juniorland
 
-#### Cliente
-- Realizar agendamento (um agendamento por cliente)
-- Cancelar agendamento (somente se tiver feito o agendamento)
-- Ver a listagem de clientes que efetuaram o agendamento
+### Modo de trabalho
 
-#### Barbeiro
-- Ver a lista de clientes na agenda
-- Definir cronograma de trabalho (ex: segunda a sexta, de 09:00 às 18:00)
-- Encerrar o dia de trabalho (ex: dar justificativa como estar passando mal ou precisa resolver algum problema)
-- Pausar o expediente (ex: preciso ir a uma consulta, mas preciso me ausentar somente por 1 hora)
-- Disponilibilizar cronograma do dia (ex: 10 atendimentos por dia ou trabalhar de 9:00 às 18:00) 
-
-#### Admin
-Gerenciar(cadastrar, excluir...) usuários
-
+- Cada funcionalidade em sua respectiva branch
+- Utilizar inglês em commits, nome de variáveis e nome de funções
+- Utilizar camelCase para variáveis e nome de classes etc
+- Utilizar funcionalidades do >= es5 
 
 ### Features que serão entregues futuramente
 - Husky
