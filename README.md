@@ -20,7 +20,7 @@
 CRUD - create, read, update and delete
 
 #### Cliente
-- Realizar agendamento Agendamento (um agendamento por cliente)
+- Realizar agendamento (um agendamento por cliente)
 - Cancelar agendamento (somente se tiver feito o agendamento)
 - Ver a listagem de clientes que efetuaram o agendamento
 
