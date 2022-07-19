@@ -21,7 +21,7 @@
 ### Modo de trabalho
 
 - Cada funcionalidade em sua respectiva branch
-- Utilizar inglês em commits, nome de variáveis e nome de funções
+- Utilizar nome de variáveis e nome de funções em inglês
 - Utilizar camelCase para variáveis e nome de classes etc
 - Utilizar funcionalidades do >= es5 
 
@@ -30,3 +30,11 @@
 - Jest
 - Definir uma Arquitetura
 - CI/CD
+
+### Docker
+
+- https://docs.docker.com/language/nodejs/build-images/
+- https://dev.to/andrewallison/docker-and-windows-1cb0
+
+- docker run -d -p 3000:3000 barbershopjuniorland
+- docker run --rm -p 5050:5050 thajeztah/pgadmin4
